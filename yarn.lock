@@ -1995,10 +1995,10 @@ yn@3.1.1:
   resolved "https://registry.yarnpkg.com/yn/-/yn-3.1.1.tgz#1e87401a09d767c1d5eab26a6e4c185182d2eb50"
   integrity sha512-Ux4ygGWsu2c7isFWe8Yu1YluJmqVhxqK2cLXNQA5AcC3QfbGNpM7fu0Y8b/z16pXLnFxZYvWhd3fhBY9DLmC6Q==
 
-youtube-sr@^3.0.4:
-  version "3.0.4"
-  resolved "https://registry.yarnpkg.com/youtube-sr/-/youtube-sr-3.0.4.tgz#38edbf6af1b080fd9e8c964d37fb7509b78d13f3"
-  integrity sha512-MnrCdfzW/gT21twn6TVR0OEMiWmsy8ZcyoBW49gwZHuCCc5pi8qBfVs9bdH61aW4Rl14zCrQCy82OEo3/MiSdg==
+youtube-sr@^4.1.6:
+  version "4.1.6"
+  resolved "https://registry.yarnpkg.com/youtube-sr/-/youtube-sr-4.1.6.tgz#0cbc3e5c4d6d5931330914aa84558b2c09980734"
+  integrity sha512-W/Qh7niooX7aMUaM9jp7NDNHuX764mAaoOH34V9q5E7v1RrHig+vd2rfAplfQILPPIs/blO3gG82D4/l/lbegg==
   dependencies:
     node-fetch "^2.6.1"
 
